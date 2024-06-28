@@ -608,6 +608,66 @@ h3.my-profession{
     display: block;
 
 }
+/* freelancing  */
+
+/* Freelancing Section */
+/* .freelancing .container {
+    padding-bottom: 40px;
+}
+
+.freelancing .freelancing-info,
+.freelancing .freelancing-img {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.freelancing .freelancing-info {
+    padding: 30px;
+}
+
+.freelancing .freelancing-info h3.hello {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: var(--text-black-900);
+}
+
+.freelancing .freelancing-info h3.my-profession {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: var(--skin-color);
+}
+
+.freelancing .freelancing-info p {
+    font-size: 16px;
+    color: var(--text-black-700);
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+.freelancing .freelancing-info .btn.hire-me {
+    background-color: var(--skin-color);
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.freelancing .freelancing-info .btn.hire-me:hover {
+    background-color: var(--skin-dark-color);
+}
+
+.freelancing .freelancing-img {
+    padding: 30px;
+    text-align: center;
+}
+
+.freelancing .freelancing-img img {
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
+} */
+
 /* contact */
 .contact-title
 {
